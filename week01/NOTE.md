@@ -11,4 +11,4 @@
 
 ---
 
-![前端技术](/Volumes/Worker/前端项目/Frontend-01-Template/week01/前端技术.png)
+![web](https://github.com/Jason-nl/Frontend-01-Template/blob/master/week01/web.png)
