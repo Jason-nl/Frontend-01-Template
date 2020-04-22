@@ -1,1 +1,35 @@
-# 每周总结可以写在这里
+### 本周总结
+
+- 词法
+    - WhiteSpace：空白符
+    - LineTerminator：行终结符
+    - Comment：注释
+    - Token：一切有效东西的最小单元
+        - Identifier：标识符
+        - Keywords：关键字
+        - Punctuator：符号 < = > } ...
+        - Literal：直接量
+            - NumberLiteral
+            - StringLiteral
+            - RegularExpressionLiteral
+        - Template：模板字符串
+- 类型
+    - Number：
+        - 直接量：int&float
+        - 进制：
+            - 十进制
+            - 八进制
+            - 十六进制
+            - 二进制
+    - String
+        - 直接量
+        - 字符集
+        - 模板字符串
+    - Boolean
+        - true&false
+    - Null
+        - keywords | value | Object Type
+    - Undefined
+        - not keywords | value | undefined Type
+    - Object
+    - Symbol
