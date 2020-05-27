@@ -164,7 +164,7 @@ CDC :   -->
 
 ### 实验:收集标准
 
-```
+```javascript
 var lis = document.getElementById("container").children
 
 
